@@ -1,0 +1,8 @@
+
+f	java:S117u"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†‹ÝÄ
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(†¶›
+r	java:S116"XRename this field "ticket_assign" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ë“¶Èÿÿÿÿÿ
+o	java:S116,"URename this field "start_time" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à§ßúýÿÿÿÿ
+h	java:S116-"SRename this field "end_time" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢óî›
+h	java:S100q"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢•ì÷ýÿÿÿÿ
+c	java:S100u"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†‹ÝÄ
